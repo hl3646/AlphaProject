@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625210761347",
+    "project_id": "alphaproject-eb884",
+    "storage_bucket": "alphaproject-eb884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625210761347:android:6cb1cc94eeac960b7d3bb6",
+        "android_client_info": {
+          "package_name": "com.example.alphaproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2kZSK42dtOeE5sEoi9L3k5JTS6mERgGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
